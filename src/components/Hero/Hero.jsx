@@ -1,5 +1,6 @@
 import React from 'react';
 import './Hero.css';
+import Header from '../Header/Header';
 const Hero = () => {
   return (
     <div className="hero">
